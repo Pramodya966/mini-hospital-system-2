@@ -50,4 +50,6 @@ Used to store and manage patient visit history.
 
 ## Author
 
+Project tested successfully with Java data structures.
+
 Pramodya966
